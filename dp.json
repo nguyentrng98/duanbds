@@ -1,0 +1,50 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "title": "Căn hộ cao cấp ở trung tâm thành phố",
+        "description": "Căn hộ hiện đại với 2 phòng ngủ, phòng khách rộng, đầy đủ tiện nghi.",
+        "price": 1200000000,
+        "image": "https://via.placeholder.com/300x200",
+        "location": "Quận 1, TP.HCM",
+        "type": "apartment"
+      },
+      {
+        "id": 2,
+        "title": "Nhà phố 3 tầng tại khu dân cư mới",
+        "description": "Nhà phố với 4 phòng ngủ, 3 phòng tắm, sân vườn và gara ô tô.",
+        "price": 2500000000,
+        "image": "https://via.placeholder.com/300x200",
+        "location": "Quận 9, TP.HCM",
+        "type": "house"
+      },
+      {
+        "id": 3,
+        "title": "Đất nền tại khu vực ngoại ô",
+        "description": "Lô đất rộng 500m2, thích hợp cho việc xây dựng nhà ở hoặc kinh doanh.",
+        "price": 800000000,
+        "image": "https://via.placeholder.com/300x200",
+        "location": "Huyện Củ Chi, TP.HCM",
+        "type": "land"
+      },
+      {
+        "id": 4,
+        "title": "Bất động sản thương mại mặt tiền đường lớn",
+        "description": "Tòa nhà thương mại cao 5 tầng, mặt tiền đường lớn, khu vực đông dân cư.",
+        "price": 5000000000,
+        "image": "https://via.placeholder.com/300x200",
+        "location": "Quận Bình Thạnh, TP.HCM",
+        "type": "commercial"
+      }
+    ]
+  }
+  {
+    "users": [
+      {
+        "id": 1,
+        "username": "existing_user",
+        "email": "existing@example.com",
+        "password": "password123"
+      }
+    ]
+  }
